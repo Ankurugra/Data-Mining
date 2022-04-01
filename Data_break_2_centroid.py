@@ -1,4 +1,5 @@
 """Centroid"""
+"""Author: Ankur Ugra"""
 
 import numpy as np
 from sklearn.neighbors.nearest_centroid import NearestCentroid
