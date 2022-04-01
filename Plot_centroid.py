@@ -1,4 +1,5 @@
 """Centroid"""
+"""Author : Ankur Ugra"""
 
 import numpy as np
 from sklearn.neighbors.nearest_centroid import NearestCentroid
@@ -87,6 +88,3 @@ for i in range(len(list)):
     print("Accuracy:",i,"  ",accuracy[i])
 
 plotGraph(accuracy)
-
-
-
